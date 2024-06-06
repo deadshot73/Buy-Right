@@ -1,5 +1,5 @@
 import userModel from "../models/userModel.js";
-import { comparePassword, hashPassword } from "../utils/authUtils.js";
+import { comparePassword, hashPassword } from "../utils/authutils.js";
 import JWT from "jsonwebtoken";
 
 //registerController
