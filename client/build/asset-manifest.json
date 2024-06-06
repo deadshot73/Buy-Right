@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cefa239d.css",
+    "main.js": "/static/js/main.36ec660c.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/croma.jpg": "/static/media/croma.4a367aafb4d3daf34497.jpg",
+    "static/media/flipkart.svg": "/static/media/flipkart.ae4de62d891ad801245237da49d2076b.svg",
+    "static/media/Amazon_logo.svg.png": "/static/media/Amazon_logo.svg.c4757ebe4fc4483694a3.png",
+    "static/media/BR_logo.png": "/static/media/BR_logo.69e4d6b4fe0f0b919821.png",
+    "index.html": "/index.html",
+    "main.cefa239d.css.map": "/static/css/main.cefa239d.css.map",
+    "main.36ec660c.js.map": "/static/js/main.36ec660c.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefa239d.css",
+    "static/js/main.36ec660c.js"
+  ]
+}
