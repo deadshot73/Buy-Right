@@ -8,7 +8,11 @@ import productRoutes from "./routes/productRoutes.js";
 import cors from "cors";
 import specRoutes from "./routes/specRoutes.js";
 import path from "path";
+<<<<<<< HEAD
 import { fileURLToPath } from "url";
+=======
+import {fileURLToPath} from 'url';
+>>>>>>> 13971a34c6b68dddcc829f4530ab02fb91881015
 //configure env
 dotenv.config(); //Since this file is in root we don't need anything else we need to write config({path:"path/apth/path"})
 
