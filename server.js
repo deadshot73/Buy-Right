@@ -8,11 +8,16 @@ import productRoutes from "./routes/productRoutes.js";
 import cors from "cors";
 import specRoutes from "./routes/specRoutes.js";
 import path from "path";
+import { fileURLToPath } from "url";
 //configure env
 dotenv.config(); //Since this file is in root we don't need anything else we need to write config({path:"path/apth/path"})
 
 //database config
 connectDB();
+
+//esmodule fix
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 //rest object
 const app = express();
